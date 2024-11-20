@@ -10,7 +10,9 @@ PortfolioPilot_V1 is a portfolio management application designed to help users m
 - **Risk Management**: Assess and manage the risk associated with your investments.
 - **Custom Alerts**: Set up custom alerts to stay informed about important changes in your portfolio.
 
-.
+
+
+
 
 ## Contributing
 
